@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 30 May 2023 15:42:28 at https://www.2gethr.xyz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.2gethr.xyz/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://www.2gethr.xyz/ -O1 "C:\My Web Sites\2gether" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.2gethr.xyz/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:47:06	Error: 	"Not Found" (404) at link https://www.2gethr.xyz/"https://uploads-ssl.webflow.com/5d9f64ed50ffcbe80454e690/5ed84f8802c24b7fee9d4280_COVID-bgMin-poster-00001.jpg" (from https://www.2gethr.xyz/a-post-covid-19-workspace)
+15:47:06	Error: 	"Not Found" (404) at link https://www.2gethr.xyz/"https://uploads-ssl.webflow.com/5d9f64ed50ffcbe80454e690/5ed7353fa37f0600d89b6897_2gethrPM-2-2-poster-00001.jpg" (from https://www.2gethr.xyz/a-post-covid-19-workspace)
+15:47:06	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.2gethr.xyz/old-home)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 38 seconds : 275 links scanned, 271 files written (223536615 bytes overall) [221544490 bytes received at 796922 bytes/sec], 2926801 bytes transferred using HTTP compression in 66 files, ratio 25%, 6.1 requests per connection
+(3 errors, 0 warnings, 0 messages)
